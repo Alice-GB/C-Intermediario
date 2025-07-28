@@ -72,8 +72,6 @@ This repository contains exercises and projects developed during the SoloLearn I
 
    </details>
 
-### Versão em Português:
-
 # Exercícios de C Intermediário 🖥️
 
 Este repositório contém exercícios e projetos desenvolvidos durante o curso de C Intermediário da SoloLearn. O material aborda conceitos fundamentais da programação em C intermediário, incluindo estruturas, gerenciamento de memória, manipulação de arquivos e diretivas de pré-processador.
